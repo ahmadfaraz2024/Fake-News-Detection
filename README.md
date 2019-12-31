@@ -6,7 +6,7 @@ https://www.researchtrend.net/ijet/pdf/A%20Comparison%20of%20Machine%20Learning%
 I have compiled a set of various datasets which can be used for analysis https://drive.google.com/drive/folders/1ipq6IbtQ5yQijzklNjqxlNEqNfEzsoz_
 
 # Code Description
-learning-rates.py: Compares the learning rates of different algorithms
-comparision.py: Comparison of Accuracy Rates of different algorithms
-Predicting-News-Class.py: Using our own search tokens for predicting the class, this will work only for news samples with same context to the data available in the datasets.
-Sample-Classifier.py: A python program for a sample machine learning classification problem of fake news with plotting of confusion matrix
+> learning-rates.py: Compares the learning rates of different algorithms
+> comparision.py: Comparison of Accuracy Rates of different algorithms
+> Predicting-News-Class.py: Using our own search tokens for predicting the class, this will work only for news samples with same context to the data available in the datasets.
+> Sample-Classifier.py: A python program for a sample machine learning classification problem of fake news with plotting of confusion matrix
