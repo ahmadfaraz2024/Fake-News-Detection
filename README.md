@@ -3,7 +3,7 @@ Fake news has turned out to be a menace. Distinguishing Fake news is a critical 
 
 https://www.researchtrend.net/ijet/pdf/A%20Comparison%20of%20Machine%20Learning%20Algorithms%20in%20Fake%20News%20Detection%20LOKESHKUMAR%20R.pdf
 
-I have compiled a set of various datasets which can be used for analysis https://drive.google.com/drive/folders/1ipq6IbtQ5yQijzklNjqxlNEqNfEzsoz_
+I have compiled a set of various datasets which can be used for analysis https://drive.google.com/drive/folders/1ipq6IbtQ5yQijzklNjqxlNEqNfEzsoz_?usp=sharing
 
 # Code Description
 
